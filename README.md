@@ -8,7 +8,7 @@ Multivariate Time Series Forecasting with Deep Learning
 ![](https://github.com/kaopanboonyuen/GISTDA_TRAINING_2023/blob/main/logo_trainer.png)
 
 
-## Short links for exercises:
+## Short link for exercises:
 
 
 - Slide: https://github.com/kaopanboonyuen/AIforHighSchool/tree/main/slides
@@ -25,7 +25,7 @@ Multivariate Time Series Forecasting with Deep Learning
 4. Build LSTM and GRU Model: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA_TRAINING_2023/blob/main/code/C4-LSTM-GRU.ipynb)
 
 
-![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
+![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_2.gif)
 
 Reference:
 
