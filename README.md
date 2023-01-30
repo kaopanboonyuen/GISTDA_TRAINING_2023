@@ -4,15 +4,11 @@ Multivariate Time Series Forecasting with Deep Learning
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
-
 ![](https://github.com/kaopanboonyuen/GISTDA_TRAINING_2023/raw/main/logo_trainer.png)
-
 
 ## Short link for exercises:
 
-
-- Slide: https://github.com/kaopanboonyuen/AIforHighSchool/tree/main/slides
-
+- Slide: https://drive.google.com/file/d/1ruXkvjDd4xCo-9o0FNF6oWjKci7h5SdJ/view?usp=sharing
 
 ## Short links for codes:
 
